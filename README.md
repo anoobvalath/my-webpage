@@ -1,6 +1,5 @@
 # my-webpage
 #some chages 
 new file fir branch
-do delete commit
-
+Ne line added to teh command prompt
 New line added this page
